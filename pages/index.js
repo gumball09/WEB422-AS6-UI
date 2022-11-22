@@ -6,7 +6,7 @@
  *
  * Name: Nghi Phuong Huynh Pham - Student ID: 101412203 - Date: Nov 22, 2022
  *
- * Vercel App (Deployed) Link: _____________________________________________________
+ * Vercel App (Deployed) Link: https://web422-as6-ui.vercel.app/
  *
  ********************************************************************************/
 
