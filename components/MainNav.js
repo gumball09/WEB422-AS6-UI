@@ -32,7 +32,7 @@ export default function MainNav() {
     const logout = () => {
         setIsExpanded(false)
         removeToken()
-        router.push('/login')
+        router.push('/login') // the demo redirects to '/' instead of '/login'
     }
 
     /**
